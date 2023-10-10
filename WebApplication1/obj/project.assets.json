@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestNTL\\Test-NTL\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Test-NTL\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\TestNTL\\Test-NTL\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Test-NTL\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\TestNTL\\Test-NTL\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Test-NTL\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
